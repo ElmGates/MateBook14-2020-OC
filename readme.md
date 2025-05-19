@@ -2,6 +2,7 @@
 
 ### 特别说明
 国内网络环境比较糟糕，push半天push不上来，OC直接放在Release里面了，点击下方链接前往下载。  
+[点这里前往下载](https://github.com/ElmGates/MateBook14-2020-OC/releases/tag/v1.0.1)
 
 
 ### 机型配置信息
