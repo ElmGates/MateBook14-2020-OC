@@ -2,7 +2,7 @@
 
 ### 特别说明
 国内网络环境比较糟糕，push半天push不上来，OC直接放在Release里面了，点击下方链接前往下载。  
-[点这里前往下载](https://github.com/ElmGates/MateBook14-2020-OC/releases/tag/v1.0.1)
+[点这里前往下载](https://github.com/ElmGates/MateBook14-2020-OC/releases/tag/v1.0.1)  
 国内下载请前往Gitee，地址：[地址点这个](https://gitee.com/ElmGatesCN/MateBook14-2020-OC)
 
 
@@ -50,11 +50,11 @@
 * `OpenCore`版本不是最新就最好，合适的版本达到稳定即可，若要升级`OpenCore`版本推荐使用，[OCAuxiliaryTools](https://github.com/ic005k/OCAuxiliaryTools/blob/master/READMe-cn.md)
 
 ### 致谢
-Apple's macOS
-[frezs的Matebook 14/13 (2019/2020/2021) MacOS Monterey & Bigsur 黑苹果安装教程](https://github.com/frezs/MateBook14-Hackintosh)，本OC的13版本基于此OC基础上修改而来。
-[Acidanthera](https://github.com/acidanthera)'s [OpenCore](https://github.com/acidanthera/OpenCorePkg)
-[B站UP主win10Q的MacOS15WiFi驱动教程](https://www.bilibili.com/video/BV1r5WyeyE3k/?vd_source=c3e90c8c0d8c4b38cb0f32fc94494c46)
-[xzhih](https://github.com/xzhih)'s [hidpi](https://github.com/xzhih/one-key-hidpi)
-[Dortania](https://github.com/dortania) 和 OpenCore Legacy Patcher 贡献者
-[laobamac](https://github.com/laobamac)'s [OCLP-Mod](https://github.com/laobamac/OCLP-Mod)
-还有其他一切对Hackintosh提供支持的人！
+Apple's macOS  
+[frezs的Matebook 14/13 (2019/2020/2021) MacOS Monterey & Bigsur 黑苹果安装教程](https://github.com/frezs/MateBook14-Hackintosh)，本OC的13版本基于此OC基础上修改而来。  
+[Acidanthera](https://github.com/acidanthera)'s [OpenCore](https://github.com/acidanthera/OpenCorePkg)  
+[B站UP主win10Q的MacOS15WiFi驱动教程](https://www.bilibili.com/video/BV1r5WyeyE3k/?vd_source=c3e90c8c0d8c4b38cb0f32fc94494c46)  
+[xzhih](https://github.com/xzhih)'s [hidpi](https://github.com/xzhih/one-key-hidpi)  
+[Dortania](https://github.com/dortania) 和 OpenCore Legacy Patcher 贡献者  
+[laobamac](https://github.com/laobamac)'s [OCLP-Mod](https://github.com/laobamac/OCLP-Mod)  
+还有其他一切对Hackintosh提供支持的人！  
